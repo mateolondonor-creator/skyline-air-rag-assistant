@@ -53,7 +53,10 @@ Question B: How long after buying a Basic Saver ticket can I cancel for a full r
 
 Ungrounded AI guesses
 
-<img width="554" height="292" alt="image" src="https://github.com/user-attachments/assets/0f3de94b-c3c1-4eaf-a424-8568bb47575f" />
+<img width="533" height="265" alt="image" src="https://github.com/user-attachments/assets/16ac6603-f6c1-4752-a82f-b0d720a7d708" />
+
+(Ungrounded AI is ChatGPT-6)
+
 
 ### Grounded RAG Assistant (with handbook)
 
