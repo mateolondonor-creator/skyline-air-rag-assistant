@@ -51,11 +51,14 @@ Question B: How long after buying a Basic Saver ticket can I cancel for a full r
 
 ### Ungrounded AI (no document)
 
-![Ungrounded AI guesses](screenshots/4.png)
+Ungrounded AI guesses
+
+<img width="554" height="292" alt="image" src="https://github.com/user-attachments/assets/0f3de94b-c3c1-4eaf-a424-8568bb47575f" />
 
 ### Grounded RAG Assistant (with handbook)
 
-![Grounded assistant answers](screenshots/5.png)
+<img width="464" height="251" alt="image" src="https://github.com/user-attachments/assets/f541cb2e-063b-48a0-878e-ae23403096c0" />
+
 
 ## Why This Matters
 
