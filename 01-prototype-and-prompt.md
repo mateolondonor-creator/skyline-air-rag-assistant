@@ -110,8 +110,17 @@ Five test questions were run against the assistant:
 
 **Test 2 result:** the assistant correctly computed the travel credit and cited Section 1.3.
 
-![Test 2: travel credit answer](screenshots/2.png)
+Test 2: travel credit answer
+
+<img width="428" height="157" alt="image" src="https://github.com/user-attachments/assets/c39ce06e-73f6-4c30-a272-d6e86d540f3a" />
+
 
 **Test 5 result:** the assistant refused to invent a loyalty program and referred the customer to a human agent.
 
-![Test 5: not covered, refers to Customer Care](screenshots/3.png)
+Test 5: not covered, refers to Customer Care
+
+<img width="479" height="159" alt="image" src="https://github.com/user-attachments/assets/2d250618-d854-4fe0-9c84-6c51615ab1a1" />
+
+
+
+
