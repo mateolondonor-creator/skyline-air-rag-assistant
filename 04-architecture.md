@@ -14,7 +14,6 @@ flowchart TD
     E -->|Yes or not covered| G[Human agent - Customer Care decides]
 ```
 
-![Restaurant Analogy architecture diagram](screenshots/12.png)
 
 ## The Parts
 
