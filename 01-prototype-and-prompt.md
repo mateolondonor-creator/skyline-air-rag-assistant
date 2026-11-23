@@ -86,7 +86,8 @@ E - EXTRAS (EDGE CASES)
 
 **Setup in Meta Muse:** the handbook PDF was attached to a new chat together with the prompt above. The assistant replied "Ready. Ask me anything about Skyline Air policies."
 
-![Setup: prompt, attached handbook, and Ready reply](screenshots/1.png)
+<img width="419" height="148" alt="image" src="https://github.com/user-attachments/assets/cf00ce5d-4abe-44ca-930e-2948d72681fe" />
+
 
 ## 3. The 3-Step RAG Pipeline
 
