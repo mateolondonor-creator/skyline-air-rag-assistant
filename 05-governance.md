@@ -4,13 +4,14 @@
 
 ## 1. Moffatt v. Air Canada (2024)
 
-In *Moffatt v. Air Canada* (2024 BCCRT 149), Air Canada's website chatbot told a customer he could get a bereavement fare after buying his ticket. That wasn't the real policy. A British Columbia tribunal ruled the airline was responsible for its chatbot's mistake and ordered it to pay $650.88 plus interest and fees. Air Canada argued the chatbot was a separate legal entity, and the tribunal rejected that.
+In the case of Moffatt v. Air Canada (2024 BCCRT 149), Air Canada had a chatbot that told a customer that he could get a bereavement fare after buying his ticket, but that wasn't the real policy. So a British Columbia Tribunal ruled that the Airline was responsible for the chatbots mistakes and ordered it to pay $650. Air Canada argued that the chatbot was its own legal entity but the tribunal rejected that.
+
 
 The takeaway is that a company owns what its AI says. This was a Canadian tribunal, so it isn't binding in the U.S., but it's the go-to example. My handbook's Section 2.3 (bereavement fares must be requested before travel) copies this exact situation.
 
 ## 2. Human-in-the-Loop (HITL) Gate
 
-My assistant can only explain policy. It can't approve refunds, issue vouchers, or grant exceptions (Section 6.2). Anything involving money, an exception, or a question the handbook doesn't cover goes to a human agent (Section 6.3). That way a wrong answer gets caught by a person before the company pays or promises anything, which is the Moffatt risk. My red team tests in [03-red-teaming.md](03-red-teaming.md) show the gate holding up.
+The AI assistant I created can only explain the policy but it cant actively approve refunds. Anything involving and/or question that the policy doesnt cover would go to a human agent. That way wrong answers get stopped by a human before the company pays or promises anything with the chatbot. My red team tests in [03-red-teaming.md](03-red-teaming.md) show the gate holding up.
 
 ## 3. Closed-Tenant Licensing and the Samsung Incident
 
