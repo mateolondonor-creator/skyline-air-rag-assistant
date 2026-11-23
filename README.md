@@ -2,7 +2,6 @@
 
 **BUAN 3301: AI in Business | Final Capstone Sprint**
 
-**Video pitch (3 to 5 min):** https://www.loom.com/ (replace this with your real video link after Step 10)
 
 > **Privacy note:** This project uses only a fictional airline and 100% synthetic data. No real customer, employee, or company data was entered into any tool.
 
